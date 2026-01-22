@@ -11,7 +11,6 @@
 
 I'm a Computer Science student and aspiring Software Developer from Düsseldorf, Germany. I am passionate about building clean, efficient, and user-friendly software solutions, from backend architecture to frontend design.
 
-- 🔭 I’m currently working on **[ExamByte](https://github.com/GazmendK/YOUR_EXAMBYTE_REPO_LINK)**, a comprehensive online examination system using Java and the Spring Framework.
 - 🌱 I’m always learning and currently deepening my knowledge in clean architecture principles and cloud deployment.
 - 💬 Ask me about Java, Spring, Python, or anything related to backend development!
 - 📫 How to reach me: **gasmen80@gmail.com**
