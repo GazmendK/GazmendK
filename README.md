@@ -1,4 +1,4 @@
-# Hi there, I'm Gasmen Kamberi 👋
+# Hi there, I'm Gasmen Kamberi 
 
 <a href="https://www.linkedin.com/in/gasmenkamberi/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -9,12 +9,12 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Computer Science student and aspiring Software Developer from Düsseldorf, Germany.  
 I enjoy building scalable and user-friendly applications ranging from backend systems and REST APIs to mobile and interactive web applications.
 
-### 🎯 My Focus
+### My Focus
 
 - Clean Architecture & Backend Development
 - Full-Stack Web Applications
@@ -22,12 +22,12 @@ I enjoy building scalable and user-friendly applications ranging from backend sy
 - Algorithm Visualization & Interactive UI Design
 - Software Quality, Testing & Maintainability
 
-- 🌱 Currently deepening my knowledge in Onion Architecture, Spring Ecosystem, Docker and scalable system design
-- 💬 Ask me about Java, Spring Boot, Flutter, Firebase, REST APIs or software architecture
-- 📫 Reach me at: **gasmen80@gmail.com**
+- Currently deepening my knowledge in Onion Architecture, Spring Ecosystem, Docker and scalable system design
+- Ask me about Java, Spring Boot, Flutter, Firebase, REST APIs or software architecture
+- Reach me at: **gasmen80@gmail.com**
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 Here are some of the technologies I've been working with:
 
@@ -55,7 +55,7 @@ Here are some of the technologies I've been working with:
 
 ---
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GazmendK&layout=compact&theme=tokyonight"/>
