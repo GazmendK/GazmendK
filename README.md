@@ -55,11 +55,9 @@ Here are some of the technologies I've been working with:
 
 ---
 
-### My GitHub Stats
 
 ### My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GazmendK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GazmendK&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=GazmendK&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true](https://github-stats-extended.vercel.app/api/top-langs?username=GazmendK&layout=compact&langs_count=4&disable_animations=true&theme=dark)"/>
 </p>
